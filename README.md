@@ -1,0 +1,1 @@
+# kmdkdm.js
